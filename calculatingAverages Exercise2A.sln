@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculatingAverages Exercise2A", "calculatingAverages Exercise2A\calculatingAverages Exercise2A.csproj", "{946545E0-4565-4EF1-9B27-67D8B9A82F25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "average10Scores", "average10Scores\average10Scores.csproj", "{000BF53C-05D0-41A9-ADDC-77E84FD671AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{946545E0-4565-4EF1-9B27-67D8B9A82F25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{946545E0-4565-4EF1-9B27-67D8B9A82F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{946545E0-4565-4EF1-9B27-67D8B9A82F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{946545E0-4565-4EF1-9B27-67D8B9A82F25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{000BF53C-05D0-41A9-ADDC-77E84FD671AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{000BF53C-05D0-41A9-ADDC-77E84FD671AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{000BF53C-05D0-41A9-ADDC-77E84FD671AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{000BF53C-05D0-41A9-ADDC-77E84FD671AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F02E9E49-1601-432B-BC75-7275BA4DF4B2}
+	EndGlobalSection
+EndGlobal
